@@ -22,11 +22,11 @@ A<&#8212;&#8212;&#8211;>B<&#8212;&#8212;&#8211;>C
 To really see how it all hangs together I&#8217;ve knocked together a little working example to integrate with Twitter using the built in Twitter Adapter. The app basically polls Twitter with a search on a hashtag, adds a field to the header then passes the message on to a service to be dealt with &#8211; in this case we are just going to print out to System.out. Sounds complicating, but Spring makes it easy &#8211; take a look at src/main/resources/twitter-integration.xml.
 
 [xml]
-  
+
 <channel id="inboundMentionsChannel"/>
-  
+
 <channel id="inputServiceActivatorChannel"/>
-  
+
 [/xml]
 
 This defines the channels, note that we haven&#8217;t actually specified what the endpoints are yet&#8230;
@@ -34,15 +34,15 @@ This defines the channels, note that we haven&#8217;t actually specified what th
 [xml]
 
 <twitter:search-inbound-channel-adapter query="#springintegration" channel="inboundMentionsChannel">
-   
+
 <poller fixed-rate="5000" max-messages-per-poll="3"/>
-   
+
 </twitter:search-inbound-channel-adapter>
 
 <header-enricher input-channel="inboundMentionsChannel" output-channel="inputServiceActivatorChannel">
-   
+
 <header name="headerField1" value="dummy header value"/>
-   
+
 </header-enricher>
 
 [/xml]

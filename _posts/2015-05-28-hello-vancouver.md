@@ -18,4 +18,4 @@ Once done with the immigration and customs things we had 3 hours to kill. 3 hour
 
 What does one eat after staying awake for 24+ hours? Five Guys! Cheeseburger with everything. Misjudged the size of large fries though. Will have to make sure to hit an In-N-Out down in states to tick of both fast food burger chains.<figure id="attachment_1209" style="width: 225px" class="wp-caption alignnone">
 
-[<img class="wp-image-1209 size-medium" src="http://delineneo.com/wp-content/uploads/2015/05/IMG_1038-225x300.jpg" alt="" width="225" height="300" srcset="https://delineneo.com/wp-content/uploads/2015/05/IMG_1038-225x300.jpg 225w, https://delineneo.com/wp-content/uploads/2015/05/IMG_1038.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" />](http://delineneo.com/wp-content/uploads/2015/05/IMG_1038.jpg)<figcaption class="wp-caption-text">Cheeseburger with everything</figcaption></figure>
+<img src="/assets/images/2015/05/IMG_1038.jpg"/><figcaption class="wp-caption-text">Cheeseburger with everything</figcaption></figure>

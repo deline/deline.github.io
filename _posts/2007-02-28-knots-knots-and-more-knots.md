@@ -10,5 +10,5 @@ categories:
   - Moblog
 ---
 I think trying to learn the knots has kind of knotted my brain into a mess.
-  
+
 And maybe just maybe i shall sleep before 10.30 tonight though that seems to be more optimistic thinking given me saying that has not worked for the last week and a half.

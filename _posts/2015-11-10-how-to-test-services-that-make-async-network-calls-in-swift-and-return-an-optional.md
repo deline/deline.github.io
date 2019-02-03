@@ -37,10 +37,10 @@ My final test ended up looking like:
         result in
         coinEnteredResult = result
     }
-    
+
     expect(coinEnteredResult).toEventuallyNot(beNil())
     expect(coinEnteredResult?.amountEnteredSoFar).to(equal(NSDecimalNumber(double: 2.5)))
- 
+
 }</pre>
 
 &nbsp;

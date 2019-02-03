@@ -30,7 +30,7 @@ I&#8217;ll focus on trying to get up my notes on the designer and developer talk
 Chris opened by discussing a number of issues in the designer &#8211; developer divide and how they may be overcome:
 
 **Us and them mentality
-  
+
 ** <span style="line-height: 1.5;">Developers thinking &#8216;designers don&#8217;t know anything&#8217; and designers thinking &#8216;developers are lazy. To help overcome this:</span>
 
   * Designers should be experts in the platform they are designing for
@@ -38,32 +38,32 @@ Chris opened by discussing a number of issues in the designer &#8211; developer 
   * Break down the walls and have respect for each other. Working in a cross functional team helps with this
 
 **Implications of design decisions**
-  
+
 It&#8217;s not easy for designers to know what is easy/hard. You get get through this by simply talking and working through it together.
 
 _Point 1 in &#8216;Us and them mentality&#8217; about being an expert will help in understanding the implications._
 
 **Speaking different languages
-  
+
 ** Designers and developers often speak in different terminology. Use a shared language. E.g. things you can standardise:
 
   * Are you talking pixels or points
   * Is it a screen or a view controller
 
 **Design isn&#8217;t always measurable**
-  
+
 Developers need to understand design isn&#8217;t scientific and will have to be more patient.
 
 **Geographical separation**
-  
+
 Easily overcome by co-locating/sit together. Also better handover docs (this is more relevant if you&#8217;re geographically separated).
 
 **PSDs are terrible docs for developers to use**
-  
+
 These are often provided as the output of design for developers to use. They&#8217;re not ideal though as developers often don&#8217;t have Photoshop nor the skills to use it well. Designers could help developers learn enough Photoshop but PSD files aren&#8217;t valuable enough in itself.
 
 **Conflict isn&#8217;t a bad thing
-  
+
 ** It gives you a different view on things. But you both need to be able to compromise on things.
 
 But at the end of the day designers and developers aren&#8217;t really that different. Your goals are really the same thing, just in a different language.
@@ -73,7 +73,7 @@ But at the end of the day designers and developers aren&#8217;t really that dif
 How does a team overcome the issues identified above? There are a number of things that a team can do:
 
 **Have a consistent design**
-  
+
 This means you have less things to build, as a common understand is shared between both parties. To achieve this there are obviously some changes/improvements that need to be made:
 
 **Designers can structure their work to make the transition as painless as possible**
@@ -89,7 +89,7 @@ This means you have less things to build, as a common understand is shared betwe
   2. Code for change &#8211; Change is inevitable. Branding can change, apps get sold. Really this is the same as principle 1.
 
 **But how can we do all this?
-  
+
 ** A number of approaches we&#8217;re given on how designers and developers could help achieve the above:
 
   * Name your colours something easily understood. E.g. instead of saying &#8216;colour #8cd8fd&#8217;, maybe your team will call that colour SkyBlue.

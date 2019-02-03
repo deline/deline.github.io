@@ -15,7 +15,7 @@ Anyways so I arrived here, and I was supposed to have someone pick me up, but th
 
 Edit:to add some pictures&#8230;
 
-[<img id="image855" height="96" alt="IMG_0659.JPG" src="http://delineneo.com/wp-content/uploads/2007/02/IMG_0659.thumbnail.JPG" />](http://delineneo.com/wp-content/uploads/2007/02/IMG_0659.jpg)  [<img id="image856" height="96" alt="IMG_0660.JPG" src="http://delineneo.com/wp-content/uploads/2007/02/IMG_0660.thumbnail.JPG" />](http://delineneo.com/wp-content/uploads/2007/02/IMG_0660)
+<img src="/assets/images/2007/02/IMG_0659.jpg"/>  <img src="/assets/images/2007/02/IMG_0660"/>
 
 First pic: One of the pickups being loaded up. Add to the backpacks being loaded on at the back another 2 layers and their corresponding owners to get a better idea.
 

@@ -5,7 +5,7 @@ date: 2008-03-16T20:15:53+00:00
 author: deline
 excerpt: |
   Sport... Once a weekend habit of my former younger life died when I jumped on the geek wagon and delved in the world of computers and weekend newspaper selling.
-  
+
   But oh how I missed thee and only realised in the last year or two. But alas old age has taken it's toll and I'm now afflicted with a stuffed right foot which hurts when I run and now requires overpriced sport tape (wonders if they sell in bulk?)
 layout: post
 guid: http://delineneo.com/?p=117

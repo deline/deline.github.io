@@ -27,5 +27,5 @@ Instructions:
   5. Eat!
 
 Picture: This is just a tomato and cheese version. You could make your mini eggplant pizzas look and taste a lot better with additional toppings. How about some herbs or a light coating of olive oil? For meat eaters, maybe a bit of ham here and there. Don&#8217;t let the looks deceive you&#8230; it actually wasn&#8217;t too bad.
-  
+
 [![img_0031.JPG](http://delineneo.com/wp-content/uploads/2007/06/img_0031.thumbnail.JPG)](http://delineneo.com/wp-content/uploads/2007/06/img_0031.JPG "img_0031.JPG")

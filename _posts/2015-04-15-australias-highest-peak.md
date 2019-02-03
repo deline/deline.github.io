@@ -22,4 +22,4 @@ After lunch we set off on our way with the rain finally turning up and the last 
 
 Hopefully I&#8217;ll get a chance to make it back down to do the hike in better weather some time in the future.
 
-[<img class="alignnone wp-image-1195 size-large" src="http://delineneo.com/wp-content/uploads/2015/04/IMG_0830-1024x768.jpg" alt="IMG_0830" width="474" height="356" srcset="https://delineneo.com/wp-content/uploads/2015/04/IMG_0830.jpg 1024w, https://delineneo.com/wp-content/uploads/2015/04/IMG_0830-300x225.jpg 300w" sizes="(max-width: 474px) 100vw, 474px" />](http://delineneo.com/wp-content/uploads/2015/04/IMG_0830.jpg)
+<img src="/assets/images/2015/04/IMG_0830.jpg"/>

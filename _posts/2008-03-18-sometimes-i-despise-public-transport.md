@@ -5,7 +5,7 @@ date: 2008-03-18T18:38:57+00:00
 author: deline
 excerpt: |
   I've decided to start a vent category appropriately tagged '<a href="http://delineneo.com/category/blog-tags/gripes">Gripes</a>'.
-  
+
   For my first posting on this new site, I have to vent about public transport.. and the stupidity that a near empty bus does not stop at a city stop during peak hour when signalled. Add to the fact that it is the only bus route into where I live and you have a pretty annoyed passenger (or lack thereof really, considering I never got on it).
 layout: post
 guid: http://delineneo.com/?p=118

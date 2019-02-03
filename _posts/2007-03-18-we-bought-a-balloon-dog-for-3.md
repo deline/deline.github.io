@@ -13,4 +13,4 @@ Okay so I was in the city yesterday for a meetup which was the same day that [Ci
 
 And so here I post the $3 balloon dog&#8230;
 
-[<img id="image873" alt="balloon_dog.jpg" src="http://delineneo.com/wp-content/uploads/2007/03/balloon_dog.thumbnail.jpg" />](http://delineneo.com/wp-content/uploads/2007/03/balloon_dog.jpg)
+<img src="/assets/images/2007/03/balloon_dog.jpg"/>

@@ -5,9 +5,9 @@ date: 2009-12-13T22:09:24+00:00
 author: deline
 excerpt: |
   So short post as I'm eating dinner and using some hotels wireless signal that my computer is picking up...
-  
+
   So Halong Bay was quite good. At night we had some karaoke, and I'll admit that I did get up (for my second attempt at karaoke ever!) Probably helped that I'd had a cocktail and a beer and a half by then. Did some kayaking in the morning through some caves into a bay. That was pretty good because it was just the people from our boat. Then swam a bit. I wasn't go too, but went 'what the heck, only here once' and went for it. Plus some Malaysians wanted to go in but were worried it was cold, so I was the first one in, told them it wasn't cold and in they came. Except they thought it was cold which it wasn't. Warmer than the beach in Sydney. Also jumped of the second level of the boat. Didd't do the roof as the guide said it was low tide and the water wasn't deep enough to jump from the roof.
-  
+
   Eating dinner now (and typing) as it's onwards to Sapa tonight. Hopefully it's not cold. We've found that what the locals call 'cold' is actually quite hot for us and were mroe than comfortable to walk round in shorts and tshirts.
 layout: post
 guid: http://delineneo.com/?p=60

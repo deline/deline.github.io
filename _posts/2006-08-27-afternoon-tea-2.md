@@ -11,7 +11,7 @@ categories:
 ---
 [![](http://static.flickr.com/89/225947553_ca8b1ef4ff.jpg)](http://www.flickr.com/photos/del_n/225947553/ "photo sharing")
 
-<span style="font-size: 0.9em; margin-top: 0px"><a href="http://www.flickr.com/photos/del_n/225947553/">Afternoon tea</a></p> 
+<span style="font-size: 0.9em; margin-top: 0px"><a href="http://www.flickr.com/photos/del_n/225947553/">Afternoon tea</a></p>
 
 <p>
   Originally uploaded by <a href="http://www.flickr.com/people/del_n/">del_n</a>.<br /> </span><br /> <br clear="all" />

@@ -14,5 +14,5 @@ Fortune cookie words of wisdom are awesome.. these are a few of late (not that I
   * _There will be no harm in asking_
   * _If you put little effort in a task you can expect very little success_
   * _You will be singled out for promotion
-  
+
 _

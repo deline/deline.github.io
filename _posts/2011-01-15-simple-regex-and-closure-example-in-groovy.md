@@ -21,13 +21,13 @@ First up:
 [groovy]
 
 String testString = &#8216;the quick brown fox jumped over the lazy dog&#8217;
-  
+
 String regex = /bw*s?b/
 
 testString.eachMatch(regex) { match ->
-      
+
 print match.capitalize()
-  
+
 }
 
 [/groovy]
@@ -39,21 +39,21 @@ Lines 4-6 is where the cool stuff happens, as for each word match we make we wan
 We could have easily defined the closure separatley and provided it to **eachMethod** as such:
 
 [groovy]
-  
+
 Closure capitalize = { match -> print match.capitalize() }
-  
+
 testString.eachMatch(regex, capitalize)
-  
+
 [/groovy]
 
 Seems pretty easy right? Not many lines of code and quite succinct about what is happening. Well as is often the case, I did a little Google and here&#8217;s an even easier solution:
 
 [groovy]
-  
+
 String testString = &#8216;the quick brown fox jumped over the lazy dog&#8217;
-  
+
 print testString.split(&#8216; &#8216;).collect{ it.capitalize() }.join(&#8216; &#8216;)
-  
+
 [/groovy]
 
 In the end my solution was a first attempt into using Groovy to solve a problem without having much exposure to the language whilst at the same time trying not to use my Java mindset. After seeing the alternative solution on the Internet it kind of shows that if you know what to use Groovy can make things even simpler as it&#8217;s definitely cleaner without using the RegEx.

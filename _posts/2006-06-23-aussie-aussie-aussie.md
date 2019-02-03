@@ -16,11 +16,11 @@ The flow on from our win was heavy traffic and crazy soccer fans in the city thi
 Here&#8217;s hoping that all goes well against Italy 🙂
 
 edit: I just googled about the trumpet playing bicycle courier and it looks like other people are just as bemused/amused&#8230;
-  
+
 <http://www.pbase.com/sheila/image/45198579>
-  
+
 <http://www.flickr.com/photos/rodski/8710975/>
-  
+
 [http://sydders.blogspot.com/2005\_04\_01\_sydders\_archive.html](http://sydders.blogspot.com/2005_04_01_sydders_archive.html)
-  
+
 [http://www.downunderclub.mb.ca/ducwfiles/yarn\_2005/04\_Yarn_April2005.pdf](http://www.downunderclub.mb.ca/ducwfiles/yarn_2005/04_Yarn_April2005.pdf) &#8211; page 6

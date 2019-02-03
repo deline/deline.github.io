@@ -10,5 +10,5 @@ categories:
   - General
 ---
 [Radar:Crossed Lines](http://radar.smh.com.au/archives/2006/07/crossed_lines_35.html)
-  
+
 Okay so I&#8217;m technically asian and all, but seriously how funny is the second one??? 😀

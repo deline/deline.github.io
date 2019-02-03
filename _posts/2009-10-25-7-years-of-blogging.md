@@ -5,11 +5,11 @@ date: 2009-10-25T20:53:48+00:00
 author: deline
 excerpt: |
   I've been on quite a hiatus the last 2 years with rather sporadic blogging episodes but after taking a look back in time I'm somewhat inspired to get back into the game.
-  
+
   It's funny when I look back at how my blog has transformed over time - starting at <a href="http://www.blogger.com">Blogger</a>, then porting everything to my <a href="http://www.delineneo.com/wordpress">WordPress driven site</a> to the current incarnation which kind of happened because of a curiosity in Drupal as a CMS.
-  
+
   I have to say though, whilst Drupal is a brilliant CMS, for running a little personal website whose main feature is a blog, WordPress wins hands down easily. Additionally for those who can't or don't have the tech skills to setup their own WordPress install WordPress also provides service similar to Blogger in getting a free blog at <yourblog>.wordpress.com.
-  
+
   Anyways that's my intro post back into the world of blogging... more soon (maybe tomorrow if we're lucky!).
 layout: post
 guid: http://delineneo.com/?p=40

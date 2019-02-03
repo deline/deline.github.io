@@ -10,5 +10,5 @@ categories:
   - Moblog
 ---
 Is what i am asking and what i am looking to. I guess it means life is very busy at the moment &#8211; which it really is. Course it doesnt help that i have the next two weekends filled and the U2 gig coming up in amongst everything else.
-  
+
 Times like these i sometimes wonder if life is a useless cycle. You know, you work to eat and eat to live kind of thinking.

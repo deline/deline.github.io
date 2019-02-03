@@ -5,9 +5,9 @@ date: 2009-12-16T14:10:49+00:00
 author: deline
 excerpt: |
   So we've checked out of our hotel and are kind of lazying around not doing much. Our ride back to Lao Cai to catch the train isn't till 4:30pm though. Could've done another walk and was slightly toying with getting a moto out to Thac Bac (Silver Waterfall) and walking to the fall but it's a bit out of town and the weather today is rather gloomy. It's definitely winter weather today as the town is covered in fog and visibility is under 15 metres. Asked a few locals and with this kind of weather the fog stays around all day. So not really the kind of weather to be trekking/walking up hills down stairs and all. Nice weather to be holed up in a cafe with coffee/tea and a book... except that I've finished my book and most of the books available in Sapa are in French... Maybe I'll try and get one in Hanoi or trade mine in...
-  
+
   Anyways going to finish my tea and decide what to do... it's kind of a really small town and you can walk from one side to another in like 10 minutes or so... maybe I should go buy a knock off North Face jacket... (except I don't want to carry it around for the next 2 weeks...)...
-  
+
   Next stop Hanoi for 2 days then it's onwards to Laos!
 layout: post
 guid: http://delineneo.com/?p=63

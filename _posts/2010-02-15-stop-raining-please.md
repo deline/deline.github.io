@@ -5,9 +5,9 @@ date: 2010-02-15T22:52:48+00:00
 author: deline
 excerpt: |
   So it feels like its been raining for like 2 weeks straight. Which isn't really that bad if it were not for the humidity. Humidity which makes me feel like I'm in SE Asia except for the fact there's no market round the corner selling awesome food.
-  
+
   Other than that not too much happening. Been working pretty intensely so weekends have usually been rest. Looks like I'm playing soccer again this year so got to get back into shape... and on the bike! Maybe more Wii playing will do the trick?
-  
+
   On that it's bed time... if I can rid myself of these hiccups!
 layout: post
 guid: http://delineneo.com/?p=76

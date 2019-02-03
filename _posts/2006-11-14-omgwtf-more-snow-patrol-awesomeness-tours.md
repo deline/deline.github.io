@@ -14,5 +14,5 @@ Woot another tour! I&#8217;m not surprised at all this is happening, but with al
 Either way, I&#8217;m going to be there for sure&#8230; here&#8217;s to hoping they play stuff from Songs For Polarbears&#8230;
 
 ahhhhh the last 1+ years has been an awesome music year&#8230; Stereophonics, Oasis, The Living End, Coldplay, Snow Patrol, Ben Folds and U2
-  
+
 Not to mention coming up in the first half of 2007 &#8211; The Killers, Red Hot Chili Peppers and Snow Patrol (again 🙂 )

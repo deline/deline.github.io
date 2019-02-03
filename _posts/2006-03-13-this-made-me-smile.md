@@ -11,6 +11,6 @@ categories:
 ---
 After a horrid Monday morning traffic sitting trip to work this morning, a squiz to check a [friend&#8217;s blog](http://surfineme.wordpress.com) made me smile in that nerdy kind of way.
 
-[<img alt="wordpress.jpg" id="image674" src="http://delineneo.com/wp-content/uploads/2006/03/wordpress.thumbnail.jpg" />](http://delineneo.com/wp-content/uploads/2006/03/wordpress.jpg)
+<img src="/assets/images/2006/03/wordpress.jpg"/>
 
 (click thumbnail to view fullscale image)

@@ -30,8 +30,8 @@ What&#8217;s interesting is that by following good practices of encapsulation us
 
 The beta release notes actually state:
 
-<pre>A limitation of the access control system is that unit tests cannot interact with the classes and 
-methods in an application unless they are marked public. This is because the unit test target is 
+<pre>A limitation of the access control system is that unit tests cannot interact with the classes and
+methods in an application unless they are marked public. This is because the unit test target is
 not part of the application module.</pre>
 
 Can this be worked around? Somewhat so&#8230; At the moment you could mark everything as public, but that seems rather unfortunate as it pretty much bypasses any encapsulation. Add the class under test to your unit test target.
